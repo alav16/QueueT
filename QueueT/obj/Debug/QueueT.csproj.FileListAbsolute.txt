@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\QueueT\QueueT\bin\Debug\QueueT.exe.config
+C:\Users\user\Desktop\QueueT\QueueT\bin\Debug\QueueT.exe
+C:\Users\user\Desktop\QueueT\QueueT\bin\Debug\QueueT.pdb
+C:\Users\user\Desktop\QueueT\QueueT\obj\Debug\QueueT.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\QueueT\QueueT\obj\Debug\QueueT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QueueT\QueueT\obj\Debug\QueueT.exe
+C:\Users\user\Desktop\QueueT\QueueT\obj\Debug\QueueT.pdb
